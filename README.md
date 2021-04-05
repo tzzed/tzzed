@@ -1,16 +1,13 @@
 ### Hi there 👋
+[Profile views](https://gpvc.arturio.dev/tzzed)
 
-<!--
-**tzzed/tzzed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tzzed&count_private=true&show_icons=true&theme=radical"/>
+</span>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzzed&theme=radical" />
+</span>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+  <img src="https://github.com/tzzed/tzzed/blob/main/dancing-gopher.gif" />
+</span>
